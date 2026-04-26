@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wario.png">
+<SubTexture name="idle0000" x="0" y="1085" width="810" height="1006" frameX="0" frameY="0" frameWidth="800" frameHeight="996" />
+<SubTexture name="down0000" x="810" y="1085" width="809" height="935" frameX="0" frameY="0" frameWidth="800" frameHeight="925" />
+<SubTexture name="left0000" x="0" y="0" width="1210" height="1085" frameX="0" frameY="0" frameWidth="1200" frameHeight="1078" />
+<SubTexture name="right0000" x="1210" y="0" width="917" height="1032" frameX="-158" frameY="-83" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="up0000" x="2127" y="0" width="803" height="793" frameX="0" frameY="0" frameWidth="793" frameHeight="783" />
+</TextureAtlas>

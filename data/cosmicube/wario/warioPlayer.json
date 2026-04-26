@@ -1,0 +1,15 @@
+{
+    "type": "playerSkin",
+    "price": 1,
+
+
+    "title": "Wario",
+    "hint": "Jeez, this church sure has some games..",
+    "description": "And the??? Ehhh????",
+
+
+    "node": {
+        "direction": "west",
+        "parent": "root"
+    }
+}
