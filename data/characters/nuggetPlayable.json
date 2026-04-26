@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "!NUG_IDLE",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-11,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "!NUG_DOWN0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				17,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "!NUG_LEFT0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				43,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "!NUG_RIGHT0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-28,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "!NUG_UP0",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nugget",
+	"position": [
+		0,
+		340
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "nugPH",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -24320,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

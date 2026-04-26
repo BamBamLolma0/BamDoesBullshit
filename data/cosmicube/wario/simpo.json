@@ -1,0 +1,15 @@
+{
+    "type": "playerSkin",
+    "price": 1,
+
+
+    "title": "Homer",
+    "hint": "mmm donut..",
+    "description": "Homer.",
+
+
+    "node": {
+        "direction": "south",
+        "parent": "nuggetPlayable"
+    }
+}

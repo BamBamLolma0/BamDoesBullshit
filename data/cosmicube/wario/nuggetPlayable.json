@@ -1,0 +1,15 @@
+{
+    "type": "playerSkin",
+    "price": 1,
+
+
+    "title": "Nugget",
+    "hint": "The Nugget....man im hunf httry",
+    "description": "gedagedi gedagayo ive been married a long time ago\n\n\n\nsibottle wanted this added",
+
+
+    "node": {
+        "direction": "west",
+        "parent": "warioPlayer"
+    }
+}
