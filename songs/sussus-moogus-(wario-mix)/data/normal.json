@@ -28208,7 +28208,7 @@
 		"lanes": 2,
 		"speed": 2.5,
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "waluigi",
 		"eventObjects": [
 			{
 				"type": "BPM Change",
