@@ -1,0 +1,24 @@
+{
+	"note": [
+		["song name", "icon name", "color array", "portrait name", "composers", "?songs to complete array", "?beans cost", "?gold lock bool"]
+	],
+	
+	"songs": [
+		["Sussus Moogus (Wario Mix)", "red", [255, 0, 0], "red", "EthanTheDoodler + Bam"]
+	],
+	
+	"section": "story",
+	
+	"storyName": "Polus Problems",
+	"weekBefore": "Week 0",
+	"weekName": "Week 1 Wario",
+
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	
+	"node": {
+		"parent": "root",
+		"direction": "west"
+	}
+}

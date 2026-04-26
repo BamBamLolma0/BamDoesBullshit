@@ -1,0 +1,15 @@
+{
+    "type": "speakerSkin",
+    "price": 1,
+
+
+    "title": "Waluigi",
+    "hint": "And I????",
+    "description": "ehhhhhhhhhhhhh",
+
+
+    "node": {
+        "direction": "west",
+        "parent": "warioPlayer"
+    }
+}
